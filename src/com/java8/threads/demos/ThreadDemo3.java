@@ -1,3 +1,5 @@
+package com.java8.threads.demos;
+
 public class ThreadDemo3 extends Thread{
     @Override
     public  void start() {

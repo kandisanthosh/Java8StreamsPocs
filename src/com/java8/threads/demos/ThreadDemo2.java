@@ -1,3 +1,5 @@
+package com.java8.threads.demos;
+
 public class ThreadDemo2 implements Runnable{
     @Override
     public void run() {
