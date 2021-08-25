@@ -8,6 +8,6 @@ public class StreamDemo9 {
         int reducedTwoParams =
                 IntStream.range(1, 4).reduce(10, (a, b) -> a + b);
         System.out.println(reducedTwoParams);
-        
+
     }
 }
